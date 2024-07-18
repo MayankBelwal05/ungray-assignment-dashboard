@@ -1,7 +1,7 @@
 # Ungray Assignment Dashboard
 
 ## Introduction
-he Assignment Dashboard is a front-end application that integrates various components, each fetching data from specific APIs.It includes a login page with authentication and redirects users dashboard in form of Cards,Charts,Graph and features based on user authentication.
+This a front-end application that integrates various components, each fetching data from specific APIs.It includes a login page with authentication and redirects users dashboard in form of Cards,Charts,Graph and features based on user authentication.
 
 
 ## Technology Stack
