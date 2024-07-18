@@ -24,13 +24,13 @@ const Login = () => {
   };
 
   return (
-    <div className="d-flex justify-content-center align-items-center vh-100" style={{ backgroundColor: "white" }}>
+    <div className="d-flex justify-content-center align-items-center vh-100" style={{ backgroundColor: "lightblue" }}>
       <div className="container">
         <div className="row loginmaincontainer">
           <div className="col-md-6 offset-md-3 mt-1">
             <div className="signup-form">
               <div className="mt-3 border p-4 shadow logincontainer" style={{ borderRadius: '20px', backgroundColor: "lightgrey" }}>
-                <h1 className="mb-5 text-black font-bold text-center" style={{ fontSize: '36px' }}>Login Account</h1>
+                <h1 className="mb-5 text-black font-bold text-center" style={{ fontSize: '36px' }}>Login Account 🔑 </h1>
                 <div className="row">
                   <div className="mb-4 col-md-12">
                     <label>
