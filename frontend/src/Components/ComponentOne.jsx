@@ -5,7 +5,7 @@ import { FaArrowTrendDown, FaArrowTrendUp } from "react-icons/fa6";
 const username = "trial";
 const password = "assignment123";
 
-const url = "http://ec2-3-83-254-115.compute-1.amazonaws.com:8020/api/v1/sample_assignment_api_1/";
+const url = "https://ec2-3-83-254-115.compute-1.amazonaws.com:8020/api/v1/sample_assignment_api_1/";
 
 const ComponentOne = () => {
   const [compOneData, setCompOneData] = useState({
