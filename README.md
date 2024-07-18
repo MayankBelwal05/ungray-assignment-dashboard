@@ -3,6 +3,11 @@
 ## Introduction
 This a front-end application that integrates various components, each fetching data from specific APIs.It includes a login page with authentication and redirects users dashboard in form of Cards,Charts,Graph and features based on user authentication.
 
+## Video demonstration-
+
+
+https://github.com/user-attachments/assets/bc4ff34a-1bcf-4a02-8e22-7389ebc64f3f
+
 
 ## Technology Stack
 - React: A JavaScript library for building user interfaces.
@@ -10,7 +15,6 @@ This a front-end application that integrates various components, each fetching d
 - Flowbite: A responsive CSS framework for building modern web interfaces.
 - Tailwind CSS: A utility-first CSS framework for styling.
 - React Router: Routing library for React applications.
-
 
 ## Deployment
 
