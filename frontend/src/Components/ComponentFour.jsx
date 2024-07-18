@@ -17,7 +17,7 @@ const ComponentFour = () => {
   const fetchData = async () => {
     try {
       const response = await axios.get(
-        'https://ec2-3-83-254-115.compute-1.amazonaws.com:8020/api/v1/sample_assignment_api_4/',
+        'http://ec2-3-83-254-115.compute-1.amazonaws.com:8020/api/v1/sample_assignment_api_4/',
         {
           headers: {
             accept: 'application/json',

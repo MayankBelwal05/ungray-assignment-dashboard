@@ -11,7 +11,7 @@ const Login = () => {
 
   const handleSubmit = () => {
     axios
-      .post("https://ec2-3-83-254-115.compute-1.amazonaws.com:8020/api/v1/login/", {
+      .post("http://ec2-3-83-254-115.compute-1.amazonaws.com:8020/api/v1/login/", {
         username: formData.userName,
         password: formData.password,
         email: "demo@gmail.com",
